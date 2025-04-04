@@ -119,7 +119,7 @@ You are a professional email writer working as part of the customer support team
    [Email body responding to the query, based on the category and information provided.]  
    
    Best regards,  
-   The Agentia Team  
+   The AetherAI Team  
    ```  
    - Replace `[Customer Name]` with “Customer” if no name is provided.  
    - Ensure the email is friendly, concise, and matches the tone of the category.  
